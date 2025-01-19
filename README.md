@@ -5,7 +5,7 @@
 I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Business Analytics. 
 - 🔒 Studying for Security+ 701 Exam
 - 🌱 Learning Rust, OS Concepts, and Computer Networks
-- 🎯 B.S. Computer Science 🧑‍💻-> M.S. Computer Science (Cybersecurity Track) 🧑‍💻-> US Govt Agency 🦅
+- 🎯 B.S. Computer Science -> M.S. Computer Science (Cybersecurity Track) -> 🦅 US Govt Agency
 
 ## 🔭 My Projects
 
