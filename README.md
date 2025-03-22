@@ -38,6 +38,7 @@ I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Busine
 ### 🚩 CTFs [JAN 2025]
 <p align="center" margin="20px">
     <a href="https://tryhackme.com/r/p/Auric115">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Auric115.png" alt="Your Image Badge" />
     </a>
 </p>
 <p align="center" margin="20px">
