@@ -51,6 +51,7 @@ I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Busine
 - B.S in Computer Science @ UT Dallas
   - Minor in Business Intelligence & Analytics
   - Certificate in Cyber Defense
+  - Special Projects Officer, Cyber Defense and Response Unit
   - Corporate Relations Officer, Cybersecurity Club
 
 <!--
