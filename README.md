@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1500&random=false&width=435&lines=Software+Development;Cybersecurity;Algorithmic+Game+Theory;Behavioral+Economics;Artificial+Intelligence;Technology+Innovation;Business+Intelligence+and+Analytics)](https://git.io/typing-svg)
 
 I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Business Analytics. 
-- 🔒 Studying for Security+ 701 Exam
-- 🌱 Learning Rust, OS Concepts, and Computer Networks
-- 🎯 B.S. Computer Science -> M.S. Computer Science (Cybersecurity Track) -> 🦅 US Govt Agency or National Lab
+- 🔒 Studying for Network+ Exam
+- 🌱 Learning Rust, IT Infrastructure, and Pentesting.
+- 🎯 B.S. Computer Science
 
 ## 🔭 My Projects
 
