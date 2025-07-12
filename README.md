@@ -19,8 +19,10 @@ I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Busine
 
 ### ❤️ Main Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auric115&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auric115&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
+
+
 
 #### 🛠️ General Purpose
 
