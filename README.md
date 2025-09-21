@@ -7,7 +7,7 @@ I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Busine
 - 🌱 Learning Rust, IT Infrastructure, and Pentesting.
 - 🎯 B.S. Computer Science
 
-Check out ![My Personal Website](https://bjs-bytes.com/)!
+Check out [My Personal Website](https://bjs-bytes.com/)!
 
 ## 🔭 My Projects
 
@@ -42,9 +42,11 @@ Check out ![My Personal Website](https://bjs-bytes.com/)!
 ### 🚩 CTFs
 
 #### Profiles
-![TryHackMe](https://tryhackme.com/p/Auric115)
-![CTFTime](https://ctftime.org/team/406614)
-![PicoCTF](https://play.picoctf.org/users/Auric115)
+[TryHackMe](https://tryhackme.com/p/Auric115)
+
+[CTFTime](https://ctftime.org/team/406614)
+
+[PicoCTF](https://play.picoctf.org/users/Auric115)
 
 #### Events
 ##### 2025
