@@ -51,10 +51,14 @@ Check out [My Personal Website](https://bjs-bytes.com/)!
 #### Events
 ##### 2025
 THM Hackfinity Battle (UTD Hackfinity) 142/4,236  
+
 TexSAW CTF (Actually1UseArchLinux): 44/553
+
 THM Industrial Intrusion (Actually1UseArchLinux): 426/5,902
+
 FortIdCTF (CSG): 20/553
-  ![Writeup](https://bjs-bytes.com/blog/fortid-ctf-writeup/)
+  
+  [Writeup](https://bjs-bytes.com/blog/fortid-ctf-writeup/)
 
 ## 🏫 My Education
 - B.S in Computer Science @ UT Dallas
