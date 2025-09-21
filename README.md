@@ -57,15 +57,13 @@ TexSAW CTF (Actually1UseArchLinux): 44/553
 THM Industrial Intrusion (Actually1UseArchLinux): 426/5,902
 
 FortIdCTF (CSG): 20/553
-  
-  [Writeup](https://bjs-bytes.com/blog/fortid-ctf-writeup/)
+  - [Writeup](https://bjs-bytes.com/blog/fortid-ctf-writeup/)
 
 ## 🏫 My Education
 - B.S in Computer Science @ UT Dallas
   - Minor in Business Intelligence & Analytics
   - Certificate in Cyber Defense
   - Special Projects Officer, Cyber Defense and Response Unit
-  - Corporate Relations Officer, Cybersecurity Club
 
 <!--
 ## 🌱 My Learning
