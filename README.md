@@ -7,6 +7,8 @@ I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Busine
 - 🌱 Learning Rust, IT Infrastructure, and Pentesting.
 - 🎯 B.S. Computer Science
 
+Check out ![My Personal Website](https://bjs-bytes.com/)!
+
 ## 🔭 My Projects
 
 - [ AI to Play a 3D Two Player Strategy Game (Columns)](https://github.com/Auric115/columns-game): An AI developed to play Columns (a two player strategic stacking game), using a NEAT which competes against itself, improving over generations through simulated natural selection.
@@ -37,17 +39,20 @@ I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Busine
 #### 🗑️ Miscellaneous
 ![](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-c%23,skills-dark-git,skills-dark-haskell,skills-dark-java,skills-dark-netlify,skills-dark-npm,skills-dark-php)
 
-### 🚩 CTFs [JAN 2025]
-<p align="center" margin="20px">
-    <a href="https://tryhackme.com/r/p/Auric115">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Auric115.png" alt="Your Image Badge" />
-    </a>
-</p>
-<p align="center" margin="20px">
-    <a href="https://play.picoctf.org/users/Auric115">
-        <img src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="picoCTF">
-    </a>
-</p>
+### 🚩 CTFs
+
+#### Profiles
+![TryHackMe](https://tryhackme.com/p/Auric115)
+![CTFTime](https://ctftime.org/team/406614)
+![PicoCTF](https://play.picoctf.org/users/Auric115)
+
+#### Events
+##### 2025
+THM Hackfinity Battle (UTD Hackfinity) 142/4,236  
+TexSAW CTF (Actually1UseArchLinux): 44/553
+THM Industrial Intrusion (Actually1UseArchLinux): 426/5,902
+FortIdCTF (CSG): 20/553
+  ![Writeup](https://bjs-bytes.com/blog/fortid-ctf-writeup/)
 
 ## 🏫 My Education
 - B.S in Computer Science @ UT Dallas
