@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1500&random=false&width=435&lines=Software+Development;Cybersecurity;Algorithmic+Game+Theory;Behavioral+Economics;Artificial+Intelligence;Technology+Innovation;Business+Intelligence+and+Analytics)](https://git.io/typing-svg)
 
 I'm a Computer Science student at UT Dallas focusing on Cybersecurity and Business Analytics. 
-- 🔒 Studying for Network+ Exam
-- 🌱 Learning Rust, IT Infrastructure, and Pentesting.
+- 🔒 Studying for CCNA Exam
+- 🌱 Learning Rust, IT Infrastructure, and Splunk.
 - 🎯 B.S. Computer Science
 
 Check out [My Personal Website](https://bjs-bytes.com/)!
